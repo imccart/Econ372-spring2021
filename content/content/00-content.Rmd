@@ -9,12 +9,15 @@ menu:
     parent: Course Content
     weight: 1
 type: docs
-slides: "01-Introduction"
+slides: "https://imccart.github.io/Econ372-content/00-Introduction/00-intro"
 output:
   blogdown::html_page:
     toc: true
 ---
 
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
 
 ## Readings
 
@@ -23,13 +26,31 @@ output:
 - <i class="fas fa-external-link-square-alt"></i> Stephen Goldsmith, ["Next Generation of Public Employees Must Understand Data and Policy"](http://www.govtech.com/opinion/Next-Generation-Public-Employees-Must-Understand-Data-Policy.html)
 
 
-## Slides {.tabset}
+## Slides {.tabset} 
 
-### 01: Motivation - why are we here?
+The slides for this module are available online as HTML files. They are divided into subsections, each with its own set of slides. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
 
-```{r, echo=FALSE, results="asis"}
+:::fyi
+**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
+:::
+
+### 01: Why? 
+
+`r blogdown::shortcode("00-01-slide-buttons")`
+
+```{r}
 knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html")
 ```
+
+
+### 02: How? 
+
+`r blogdown::shortcode("00-02-slide-buttons")`
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.html")
+```
+
 
 
 
