@@ -27,7 +27,7 @@ output:
 
 ### 01: Motivation - why are we here?
 
-```{r include=FALSE}
+```{r, echo=FALSE, results="asis"}
 knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html")
 ```
 
