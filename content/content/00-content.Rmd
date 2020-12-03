@@ -39,9 +39,13 @@ The module is divided into subsections aligning with these core questions, each 
 
 Why are you taking this class? What's so interesting about health economics? Hopefully this part of our discussion convinces you how important and interesting health economics is. 
 
-```{r, fig.align='center'}
+<center>
+
+```{r}
 knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html")
 ```
+
+</center>
 
 <p style="text-align:center;"><span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</span> <span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.pdf"><i class="far fa-file-pdf"></i> Download PDF of all slides</span></p>
 
