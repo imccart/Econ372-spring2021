@@ -28,15 +28,9 @@ output:
 ### 01: Motivation - why are we here?
 
 ```{r include=FALSE}
-knitr::include_url("/static/slides/00-intro1.html")
+knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html")
 ```
 
-
-### 02: Course overview - what will we do?
-
-```{r include=FALSE}
-knitr::include_url("static/slides/00-intro2.html")
-```
 
 
 ## Optional lab
