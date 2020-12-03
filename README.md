@@ -1,1 +1,1 @@
-# Econ372-spring2021
+# Econ-372

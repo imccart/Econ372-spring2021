@@ -1,0 +1,44 @@
+---
+title: "Introduction to U.S. Health Care"
+linktitle: "M0: Getting started"
+date: "2020-08-24"
+start_date: "2020-08-24"
+end_date: "2020-08-28"
+menu:
+  content:
+    parent: Course Content
+    weight: 1
+type: docs
+slides: "01-Introduction"
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+
+## Readings
+
+- The [syllabus](/syllabus/), [content](/content/), and [assignments](/assigment/) pages for this class
+- <i class="fas fa-book"></i> Chapter 1 in *Impact Evaluation in Practice*
+- <i class="fas fa-external-link-square-alt"></i> Stephen Goldsmith, ["Next Generation of Public Employees Must Understand Data and Policy"](http://www.govtech.com/opinion/Next-Generation-Public-Employees-Must-Understand-Data-Policy.html)
+
+
+## Slides {.tabset}
+
+### 01: Motivation - why are we here?
+
+```{r include=FALSE}
+knitr::include_url("/static/slides/00-intro1.html")
+```
+
+
+### 02: Course overview - what will we do?
+
+```{r include=FALSE}
+knitr::include_url("static/slides/00-intro2.html")
+```
+
+
+## Optional lab
+
+Some extra materials
