@@ -1,7 +1,7 @@
 ---
 title: "Introduction to U.S. Health Care"
 linktitle: "M0: Getting started"
-date: "2020-08-24"
+date: "2020-12-03"
 start_date: "2020-08-24"
 end_date: "2020-08-28"
 menu:
@@ -20,9 +20,9 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
 
 ## Readings
 
-- The [syllabus](/syllabus/), [content](/content/), and [assignments](/assigment/) pages for this class
-- <i class="fas fa-book"></i> Chapter 1 in *Impact Evaluation in Practice*
-- <i class="fas fa-external-link-square-alt"></i> Stephen Goldsmith, ["Next Generation of Public Employees Must Understand Data and Policy"](http://www.govtech.com/opinion/Next-Generation-Public-Employees-Must-Understand-Data-Policy.html)
+- The [syllabus](/syllabus/), [content](/content/), and [assignments](/assignment/) pages for this class
+- <i class="fas fa-book"></i> Read some book stuff
+- <i class="fas fa-external-link-square-alt"></i> External links
 
 
 ## Slides {.tabset} 
