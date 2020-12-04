@@ -1,0 +1,42 @@
+lessons:
+  - title: 'Module 0: Introduction'
+    header: True
+
+  - title: '<span class="content-title">Motivation</span>'
+    session: "Class 1-2"
+    date: "January 25-27"
+    content: "00-content"
+    bg: 1
+    
+  - title: 'Check-in 1'
+    date: "January 28"
+    assignment: "weekly-check-in"
+    bg: 1
+    bottomborder: True    
+
+  - title: 'Module 1: Health insurance'
+    header: True
+
+  - title: '<span class="content-title">Understanding risk</span>'
+    session: "Class 3"
+    date: "February 2"
+    content: "01-content"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Demand for health insurance</span>'
+    session: "Class 4-5"
+    date: "February 4-9"
+    content: "01-content"
+    bg: 3
+    bottomborder: True
+
+  - title: 'Check-in 2'
+    date: "February 4"
+    assignment: "weekly-check-in"
+    bg: 3
+    bottomborder: True
+
+  - title: '<i class="fas fa-star"></i> **Exam 1**'
+    date: "October 5–10"
+    bg: 4
