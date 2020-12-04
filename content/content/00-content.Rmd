@@ -2,8 +2,8 @@
 title: "Introduction to U.S. Health Care"
 linktitle: "M0: Getting started"
 date: "2020-12-03"
-start_date: "2020-08-24"
-end_date: "2020-08-28"
+start_date: "2021-01-26"
+end_date: "2021-01-28"
 menu:
   content:
     parent: Course Content
