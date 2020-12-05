@@ -6,7 +6,7 @@ start_date: "2021-01-26"
 end_date: "2021-01-28"
 menu:
   content:
-    parent: Course Content
+    parent: Module Content
     weight: 1
 type: docs
 output:

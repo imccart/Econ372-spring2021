@@ -33,37 +33,33 @@
   weight = 1
   
 [[content]]
-  name = "Course Content"
+  name = "Module Content"
   weight = 2
+  
+[[content]]
+  name = "Weekly Guides"
+  weight = 3  
   
 [[assignment]]
   name = "Assignments"
   weight = 1
   
 [[assignment]]
-  name = "Other Projects"
+  name = "Homework"
   weight = 2
   
 [[assignment]]
-  name = "Problem Sets"
+  name = "Exam"
   weight = 3
 
 [[assignment]]
-  name = "Evaluation"
+  name = "Project"
   weight = 4
 
 [[resource]]
   name = "Resources"
   weight = 1
-  
-[[resource]]
-  name = "Study Guides"
-  weight = 2
 
-[[resource]]
-  name = "Guides"
-  weight = 3
-  
 
   
   
