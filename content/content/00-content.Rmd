@@ -25,7 +25,7 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
 - <i class="fas fa-external-link-square-alt"></i> External links
 
 
-## Slides {.tabset} 
+## Slides
 
 The slides for this module are available online as HTML files. The goal of this module is to answer the key questions that anyone should want answered when they start to learn something new, "what, why, who, and how?". That is, "what are we learning and why?", "who is learning it?", and "how are we going to learn it?" 
 
