@@ -54,9 +54,13 @@ knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00
 
 Let's expand on the "why?" for a bit but also talk more specifically about the subjects we'll cover in this class. This section is the "what?".
 
+<center>
+
 ```{r}
 knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.html")
 ```
+
+</center>
 
 <p style="text-align:center;"><span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</span> <span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.pdf"><i class="far fa-file-pdf"></i> Download PDF of all slides</span></p>
 
@@ -68,9 +72,13 @@ Let's get to know each other a little!
 
 ### 04: How?
 
+<center>
+
 ```{r}
 knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.html")
 ```
+
+</center>
 
 <p style="text-align:center;"><span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</span> <span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.pdf"><i class="far fa-file-pdf"></i> Download PDF of all slides</span></p>
 
