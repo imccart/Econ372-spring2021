@@ -57,14 +57,6 @@
                     {{ end }}
                 </div>
 
-                <div class="body-footer">
-                    <p>{{ i18n "last_updated" }} {{ $.Lastmod.Format site.Params.date_format }}</p>
-
-                    {{ partial "page_edit" . }}
-
-                    {{ partial "comments" . }}
-                </div>
-
             </article>
 
             {{ partial "site_footer" . }}
