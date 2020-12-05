@@ -21,7 +21,7 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
 ## Readings
 
 - The [syllabus](/syllabus/), [content](/content/), and [assignments](/assignment/) pages for this class
-- <i class="fas fa-book"></i> Read some book stuff
+- <i class="fas fa-book"></i> Read some stuff in a book
 - <i class="fas fa-external-link-square-alt"></i> External links
 
 
@@ -45,9 +45,10 @@ Why are you taking this class? What's so interesting about health economics? Hop
 knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html")
 ```
 
-</center>
 
-<p style="text-align:center;"><span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</span> <span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.pdf"><i class="far fa-file-pdf"></i> Download PDF of all slides</span></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
 
 
 ### 02: What? 
@@ -60,9 +61,10 @@ Let's expand on the "why?" for a bit but also talk more specifically about the s
 knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.html")
 ```
 
-</center>
 
-<p style="text-align:center;"><span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</span> <span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.pdf"><i class="far fa-file-pdf"></i> Download PDF of all slides</span></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
 
 
 ### 03: Who? 
@@ -78,7 +80,8 @@ Let's get to know each other a little!
 knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.html")
 ```
 
-</center>
 
-<p style="text-align:center;"><span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</span> <span class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.pdf"><i class="far fa-file-pdf"></i> Download PDF of all slides</span></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
 
