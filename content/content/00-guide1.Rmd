@@ -1,0 +1,21 @@
+---
+title: "Weekly Guide 1"
+linktitle: "Week 1"
+date: "2020-12-03"
+start_date: "2021-01-26"
+end_date: "2021-01-28"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 1
+type: docs
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+Guide info

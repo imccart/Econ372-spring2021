@@ -22,7 +22,7 @@ day_night = false
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "minimal"
+font = "nunito"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -86,8 +86,8 @@ edit_page = ""
 ############################
 
 author = "Ian McCarthy"
-instructor = {name = "Prof. Ian McCarthy", email = "ian.mccarthy@emory.edu", url = "ianmmcarthyecon.com", twitter = "ianhealthecon", office = "PAIS 573", github = "imccart", contact_policy = "I almost always repond to e-mail within 24 hours. I'm also happy to meet (virtually for now) anytime that is available on my youcanbook.me site.", appointment_url = "mccarthy-meetings.youcanbook.me/"}
-course = {number = "Econ 372", semester = "Spring 2021", dates = "1/25/2021 - 5/15/2021", days = "Any day", time = "Any time", github = "github.com/imccart/Econ-372", copyrightYear = "2021"}
+instructor = {name = "Prof. Ian McCarthy", email = "ian.mccarthy@emory.edu", url = "ianmmcarthyecon.com", twitter = "ianhealthecon", office = "PAIS 573", github = "imccart", appointment_url = "mccarthy-meetings.youcanbook.me/"}
+course = {number = "Econ 372", semester = "Spring 2021", dates = "1/25/2021 - 5/12/2021", days = "Tuesday & Thursday", time = "8:00am - 9:15am", github = "github.com/imccart/Econ-372", copyrightYear = "2021"}
 university = {name = "Emory University", url = "https://www.emory.edu/home/index.html"}
 school = {name = "Department of Economics", url = "http://economics.emory.edu/home/index.html"}
 
