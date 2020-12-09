@@ -9,6 +9,8 @@ menu:
     parent: Module Content
     weight: 1
 type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
 output:
   blogdown::html_page:
     toc: false
@@ -20,14 +22,14 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
 
 ## Readings
 
-- The [syllabus](/syllabus/), [content](/content/), and [assignments](/assignment/) pages for this class
-- <i class="fas fa-book"></i> Read some stuff in a book
-- <i class="fas fa-external-link-square-alt"></i> External links
+- Review the [syllabus](/syllabus/), [schedule](/schedule/), [content](/content/), and [assignments](/assignment/) pages for this class...just to get a feel for the site and how to navigate all of the information.
+- <i class="fas fa-book"></i> [@arrow1963] and [@gaynor2015jel]. These articles are more of a guide for the semester. We'll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.
+- <i class="fas fa-external-link-square-alt"></i> We'll look at a lot of data from [Gapminder](https://www.gapminder.org/) and some specific examples of crazy hospital pricing from [Bitter Pill](https://www.youtube.com/watch?v=I4yIlbh0CwE)
 
 
 ## Slides
 
-The slides for this module are available online as HTML files. The goal of this module is to answer the key questions that anyone should want answered when they start to learn something new, "what, why, who, and how?". That is, "what are we learning and why?", "who is learning it?", and "how are we going to learn it?" 
+The goal of this module is to answer the key questions that anyone should want answered when they start to learn something new, "what, why, who, and how?" (the "when" should be obvious...8:00am!! on Tu/Th) That is, "what are we learning and why?", "who is learning it?", and "how are we going to learn it?" 
 
 The module is divided into subsections aligning with these core questions, each with its own set of slides. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
 
