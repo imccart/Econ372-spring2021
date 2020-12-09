@@ -75,13 +75,13 @@ lessons:
     date: "February 25"
     assignment: "01-homework"
     bg: 3
-    bottomborder: True
 
 
   - title: 'Check-in 5'
     date: "February 26"
     assignment: "weekly-check-in"
     bg: 2
+    bottomborder: True    
 
 
   - title: '<span class="content-title">Fee-for-service payments</span>'
