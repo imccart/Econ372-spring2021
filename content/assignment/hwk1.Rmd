@@ -1,0 +1,19 @@
+---
+title: "Homework 1"
+linktitle: "Homework 1"
+date: "2021-02-23"
+due_date: "2021-02-23"
+due_time: "11:59 PM"
+output:
+  blogdown::html_page:
+    toc: true
+menu:
+  assignment:
+    parent: Problem sets
+    weight: 1
+type: docs
+editor_options: 
+  chunk_output_type: console
+---
+
+Details of homework 1
