@@ -56,6 +56,11 @@
   name = "Project"
   weight = 4
 
+[[assignment]]
+  name = "Participation"
+  weight = 5
+
+
 [[resource]]
   name = "Resources"
   weight = 1
