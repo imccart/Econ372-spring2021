@@ -10,7 +10,7 @@ output:
 menu:
   assignment:
     parent: Homework
-    weight: 1
+    weight: 2
 type: docs
 ---
 
