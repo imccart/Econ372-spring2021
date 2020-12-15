@@ -86,7 +86,7 @@ edit_page = ""
 ############################
 
 author = "Ian McCarthy"
-instructor = {name = "Prof. Ian McCarthy", email = "ian.mccarthy@emory.edu", url = "ianmmcarthyecon.com", twitter = "ianhealthecon", office = "PAIS 573", github = "imccart", appointment_url = "mccarthy-meetings.youcanbook.me/"}
+instructor = {name = "Prof. Ian McCarthy", email = "ian.mccarthy@emory.edu", url = "https://www.ianmmcarthyecon.com", twitter = "ianhealthecon", office = "PAIS 573", github = "imccart", appointment_url = "https://mccarthy-meetings.youcanbook.me/"}
 course = {number = "Econ 372", semester = "Spring 2021", dates = "1/25/2021 - 5/12/2021", days = "Tuesday & Thursday", time = "8:00am - 9:15am", github = "github.com/imccart/Econ-372", copyrightYear = "2021"}
 university = {name = "Emory University", url = "https://www.emory.edu/home/index.html"}
 school = {name = "Department of Economics", url = "http://economics.emory.edu/home/index.html"}
