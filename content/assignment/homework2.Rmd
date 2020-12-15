@@ -1,12 +1,11 @@
 ---
 title: "Homework 2"
 linktitle: "Homework 2"
-date: "2021-01-25"
 due_date: "2021-03-23"
 due_time: "11:59 PM"
 output:
   blogdown::html_page:
-    toc: true
+    toc: false
 menu:
   assignment:
     parent: Homework
