@@ -17,7 +17,7 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
 
 Welcome to Economics of Health Care Markets! We're going to have a great time this semester and learn a ton about economics, health care, and health policy.
 
-### Objectives for this week
+### Objectives
 - Recall the total annual expenditures on health and health care in the U.S.
 - Compare U.S. health expenditures and quality to that of other countries
 - Explain the debate surrounding the role of prices in U.S. health care expenditures
