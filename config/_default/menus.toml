@@ -65,6 +65,13 @@
   name = "Resources"
   weight = 1
 
+[[resource]]
+  name = "Math Review"
+  weight = 2
+
+[[resource]]
+  name = "Worksheets"
+  weight = 3
 
   
   
