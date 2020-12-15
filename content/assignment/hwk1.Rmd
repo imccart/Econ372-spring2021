@@ -12,8 +12,6 @@ menu:
     parent: Homework
     weight: 1
 type: docs
-editor_options: 
-  chunk_output_type: console
 ---
 
 ## Instructions
