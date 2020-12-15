@@ -20,12 +20,12 @@
   
 [[main]]
   name = "Assignments"
-  url = "assignments"
+  url = "assignment"
   weight = 4
   
 [[main]]
   name = "Resources"
-  url = "resources"
+  url = "resource"
   weight = 5
   
 [[content]]
