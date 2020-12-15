@@ -23,7 +23,8 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
 ## Readings
 
 - <i class="fas fa-book"></i> Sections 5.1-5.2 and 17.1 of [@pindyck2018], Chapter 4 of [@sloan2012], and [@einav2011]
-- <i class="fas fa-external-link-square-alt"></i> 
+- <i class="fas fa-external-link-square-alt"></i> CNN Business, February 2017, ["Humana pulls out of Obamacare for 2018"](https://money.cnn.com/2017/02/14/news/economy/humana-obamacare-insurer/)
+
 
 
 ## Slides
