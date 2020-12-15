@@ -1,9 +1,6 @@
 ---
 title: "Homework"
 linktitle: "Homework 1"
-date: "2021-01-25"
-due_date: "2021-02-25"
-due_time: "11:59 PM"
 output:
   blogdown::html_page:
     toc: true
