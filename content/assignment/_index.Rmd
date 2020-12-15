@@ -1,0 +1,40 @@
+---
+title: General information
+menu:
+  assignment:
+    parent: Assignments
+    weight: 1
+type: docs
+weight: 1
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+Below are basic descriptions of each category of assignments for this semester, including information on how to turn in each assignment as well as grading criteria. 
+
+## Homework
+Since everything is online this semester (again, ugh!), please submit all of your homework answers as a PDF through our classroom **OneNote** Notebook. You can use Word and "print" to PDF, but I also encourage you to use Overleaf, which will help you to easily create PDFs and is much better for writing math-oriented documents. Overleaf is also fully could-based, and as an Emory student, you have full access to Overleaf Professional. I'm asking you to submit assignments through OneNote for two reasons: 1) all of your submissions will be easily organized in one spot for you and me to see; and 2) I can easily annotate the PDF so that you can see my comments directly. This saves me the steps of copying files from Canvas into another format that I can annotate on my drawing tablet, saving a new version, and uploading. 
+
+Each homework assignment is worth 60 points toward your final grade. Most homework assignments have around 15 to 20 individual parts (think 4 or 5 questions each with 3 or 4 individual components), so you should expect each part of each question to be worth around 3 points on average. Each part will be graded as follows:
+
+- **3 points:** Correct answer
+- **2 point2:** Good try and close, but with minor mistakes
+- **1 point:** Incomplete work but an attempt nonetheless
+- **0 points:** No work toward the answer (e.g., completely blank or some initial equation written without any attempt to solve)
+
+
+## Exam
+Details pending
+
+## Project
+Details pending
+
+## Participation
+"Participation" in each week will be graded based on how many of the weekly participation elements are submitted, specifically: 
+
+- **2 points:** Submission of a weekly check-in and completion of in-class "quiz"
+- **1 point:** Submission of the check-in or completion of the quiz, but not both
+- **0 points:** No submission of a check-in and no completion of the quiz
+
+You final participation grade in the class is worth 20 points toward your final grade. We have 14 weeks of class this semester, which means you have 28 total "participation" points. So you have some margin for error here.

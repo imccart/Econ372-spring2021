@@ -75,13 +75,13 @@ lessons:
     date: "February 25"
     assignment: "01-homework"
     bg: 3
-    bottomborder: True
 
 
   - title: 'Check-in 5'
     date: "February 26"
     assignment: "weekly-check-in"
     bg: 2
+    bottomborder: True    
 
 
   - title: '<span class="content-title">Fee-for-service payments</span>'
@@ -155,7 +155,7 @@ lessons:
     bottomborder: True
 
 
-  - title: '<span class="content-title">Pricing in two-price market</span>'
+  - title: '<span class="content-title">Prices and bargaining</span>'
     session: "Class 20-21"
     date: "April 8-13"
     content: "03-content"
