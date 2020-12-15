@@ -1,0 +1,14 @@
+---
+title: "Exam"
+linktitle: "Mid-term Exam"
+output:
+  blogdown::html_page:
+    toc: false
+menu:
+  assignment:
+    parent: Exam
+    weight: 1
+type: docs
+---
+
+We only have one exam this semester. It will cover all content from Modules 1 and 2.
