@@ -6,6 +6,7 @@ lessons:
     session: "Class 1-2"
     date: "January 26-28"
     content: "00-content"
+    guide: "guide1"
     bg: 1
     
   - title: 'Check-in 1'
