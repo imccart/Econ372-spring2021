@@ -30,6 +30,7 @@ lessons:
     session: "Class 4-5"
     date: "February 4-9"
     content: "01-content"
+    guide: "guide3"
     bg: 1
 
   - title: 'Check-in 2'
@@ -42,6 +43,7 @@ lessons:
     session: "Class 6-7"
     date: "February 11-16"
     content: "01-content"
+    guide: "guide4"
     bg: 2
 
   - title: 'Check-in 3'
@@ -54,6 +56,7 @@ lessons:
     session: "Class 8-9"
     date: "February 18-23"
     content: "01-content"
+    guide: "guide5"
     bg: 1
 
   - title: 'Check-in 4'

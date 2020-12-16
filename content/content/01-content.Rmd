@@ -1,9 +1,6 @@
 ---
 title: "Health Insurance"
 linktitle: "M1: Health Insurance"
-date: "2020-12-03"
-start_date: "2021-01-26"
-end_date: "2021-01-28"
 menu:
   content:
     parent: Module Content
@@ -20,12 +17,15 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
-## Readings
+## Readings and other links
 
 - <i class="fas fa-book"></i> Sections 5.1-5.2 and 17.1 of [@pindyck2018], Chapter 4 of [@sloan2012], and [@einav2011]
-- <i class="fas fa-external-link-square-alt"></i> CNN Business, February 2017, ["Humana pulls out of Obamacare for 2018"](https://money.cnn.com/2017/02/14/news/economy/humana-obamacare-insurer/)
-
-
+- <i class="fas fa-external-link-square-alt"></i> 
+    - CNN Business, February 2017, ["Humana pulls out of Obamacare for 2018"](https://money.cnn.com/2017/02/14/news/economy/humana-obamacare-insurer/)
+    - Kaiser Family Foundation, February 2017, ["High-Risk Pools for Uninsurable Individuals"](https://www.kff.org/health-reform/issue-brief/high-risk-pools-for-uninsurable-individuals/)
+    - ESPN, January 2019, ["A New Threat: An Evaporating Insurance Market"](https://www.espn.com/espn/story/_/id/25776964/insurance-market-football-evaporating-causing-major-threat-nfl-pop-warner-colleges-espn)
+    - NPR, December 2018, ["Short-Term Health Plans Boost Profits for Brokers and Insurers."](https://www.npr.org/sections/health-shots/2018/12/21/678605152/short-term-health-plans-boost-profits-for-brokers-and-insurers)
+    
 
 ## Slides
 
