@@ -1,6 +1,6 @@
 ---
 title: "Mid-term Exam"
-linktitle: "Mid-term Exam"
+linktitle: "Mid-term exam"
 output:
   blogdown::html_page:
     toc: false
