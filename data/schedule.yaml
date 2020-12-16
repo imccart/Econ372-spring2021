@@ -79,7 +79,7 @@ lessons:
 
   - title: 'Homework 1'
     date: "February 25"
-    assignment: "01-homework"
+    assignment: "homework1"
     bg: 3
 
 
@@ -108,6 +108,7 @@ lessons:
     session: "Class 14-15"
     date: "March 11-18"
     content: "02-content"
+    guide: "guide8"
     bg: 2
 
   - title: 'Check-in 7'
@@ -126,11 +127,12 @@ lessons:
     session: "Class 16-17"
     date: "March 23-25"
     content: "02-content"
+    guide: "guide9"
     bg: 1
 
   - title: 'Homework 2'
     date: "March 23"
-    assignment: "02-homework"
+    assignment: "homework2"
     bg: 3
 
   - title: 'Check-in 9'
@@ -141,7 +143,7 @@ lessons:
 
   - title: '<i class="fas fa-star"></i> **Mid-term Exam**'
     date: "March 30"
-    assignment: "exam"
+    assignment: "exam1"
     bg: 3
     bottomborder: True
 
@@ -153,6 +155,7 @@ lessons:
     session: "Class 18-19"
     date: "April 1-6"
     content: "03-content"
+    guide: "guide10"
     bg: 2
 
   - title: 'Check-in 10'
@@ -166,6 +169,7 @@ lessons:
     session: "Class 20-21"
     date: "April 8-13"
     content: "03-content"
+    guide: "guide11"
     bg: 1
 
   - title: 'Check-in 11'
@@ -179,6 +183,7 @@ lessons:
     session: "Class 22-24"
     date: "April 15-22"
     content: "03-content"
+    guide: "guide12"
     bg: 2
 
   - title: 'Check-in 12'
@@ -197,11 +202,12 @@ lessons:
     session: "Class 25-26"
     date: "April 27-29"
     content: "03-content"
+    guide: "guide13"
     bg: 1
 
   - title: 'Homework 3'
     date: "April 27"
-    assignment: "03-homework"
+    assignment: "homework3"
     bg: 3
 
   - title: 'Check-in 14'

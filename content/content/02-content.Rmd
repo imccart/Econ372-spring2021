@@ -24,7 +24,10 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
     - [The Dartmouth Atlas](https://www.dartmouthatlas.org/interactive-apps/)
     - The Atlantic, December 2013, ["You're Getting Too Much Healthcare](https://www.theatlantic.com/health/archive/2013/12/youre-getting-too-much-healthcare/281896/)
     - MIT News Office, June 2018, ["The value of late-in-life health care spending"](http://news.mit.edu/2018/value-late-life-health-care-spending-medicare-0628)
-
+    - [All About Medicare, Podcast](https://open.spotify.com/episode/11QshS7vlTptfBVkV8WkTG?si=sCnpjaDNT5mF3lDC6obB4g)
+    - [All Aboud Medicaid, Podcast](https://open.spotify.com/episode/5wV95SFHGv9trpZrXACELP?si=DFnzeWj7R1eIv9w2Xr3PtQ)
+    - [Healthcare Triage, Pay for Performance](https://www.youtube.com/watch?v=SFNuztrgQY0)
+    - [NEJM Report, What is Pay for Performance](https://catalyst.nejm.org/doi/full/10.1056/CAT.18.0245)
 
 
 ## Slides
