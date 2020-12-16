@@ -74,6 +74,7 @@ lessons:
     session: "Class 10-11"
     date: "February 25-March 2"
     content: "02-content"
+    guide: "guide6"
     bg: 2
 
   - title: 'Homework 1'
@@ -93,6 +94,7 @@ lessons:
     session: "Class 12-13"
     date: "March 4-9"
     content: "02-content"
+    guide: "guide7"
     bg: 1
 
   - title: 'Check-in 6'

@@ -1,9 +1,6 @@
 ---
 title: "Physician Agency and Treatment Decisions"
 linktitle: "M2: Physician agency"
-date: "2020-12-03"
-start_date: "2021-01-26"
-end_date: "2021-01-28"
 menu:
   content:
     parent: Module Content
@@ -20,10 +17,14 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
-## Readings
+## Readings and other links
 
 - <i class="fas fa-book"></i> Section 17.4 of [@pindyck2018], Sections 5.3 and 17.2 of [@sloan2012], [@mcguire2000], [@gruber1996], [@clemens2014]
 - <i class="fas fa-external-link-square-alt"></i> 
+    - [The Dartmouth Atlas](https://www.dartmouthatlas.org/interactive-apps/)
+    - The Atlantic, December 2013, ["You're Getting Too Much Healthcare](https://www.theatlantic.com/health/archive/2013/12/youre-getting-too-much-healthcare/281896/)
+    - MIT News Office, June 2018, ["The value of late-in-life health care spending"](http://news.mit.edu/2018/value-late-life-health-care-spending-medicare-0628)
+
 
 
 ## Slides
