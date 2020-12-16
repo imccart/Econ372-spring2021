@@ -1,0 +1,17 @@
+---
+title: "Final Project"
+linktitle: "Final project"
+due_date: "2021-05-12"
+due_time: "11:59 PM"
+output:
+  blogdown::html_page:
+    toc: false
+menu:
+  assignment:
+    parent: Project
+    weight: 1
+type: docs
+---
+
+## Instructions
+Stay tuned for more details on the project for this semester.
