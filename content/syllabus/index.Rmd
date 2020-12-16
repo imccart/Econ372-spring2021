@@ -108,7 +108,7 @@ If you anticipate issues related to the format or requirements of this course, p
 
 ### Class-wide announcements
 
-I will post regular announcements to the class on *Canvas*, so please set up your notifications on *Canvas* accordingly. I will also use *Canvas* to post all grades and any other information that needs to stay in the class (like our *Zoom* meeting link for virtual class times and our gather.town password for office hours). All other course materials will be available on our class website, [mccarthy-spring21-econ271.netlify.app](https://mccarthy-spring21-econ372.netlify.app/).
+I will post regular announcements to the class on *Canvas*, so please set up your notifications on *Canvas* accordingly. I will also use *Canvas* to post all grades and any other information that needs to stay in the class (like our *Zoom* meeting link for virtual class times and our gather.town password for office hours). All other course materials will be available on our class website, [econ372s21.classes.ianmccarthyecon.com](https://econ372s21.classes.ianmccarthyecon.com).
 
 ### Lauren's Promise
 
@@ -123,7 +123,7 @@ Any form of sexual harassment or violence will not be excused or tolerated at Em
 
 ## Assignments and grades
 
-Detailed descriptions of all assignments are on the [assignments page](/assignment/).
+Detailed descriptions of all assignments are on the [assignments page](/assignment/). Each assignment will contribute to your final grade as described below.
 
 ```{r assignments-grades, include=FALSE}
 assignments <- tibble(
@@ -142,8 +142,6 @@ grading <- tibble(
   Range1=c("73-76%","70-72%","67-69%","63-66%","60-62%","< 60%")
 )
 ```
-
-Each assignment will contribute to your final grade as described below.
 
 <center>
 
