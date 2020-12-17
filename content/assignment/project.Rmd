@@ -13,5 +13,6 @@ menu:
 type: docs
 ---
 
-## Instructions
-Stay tuned for more details on the project for this semester.
+The final project is a big part of your grade. This essentially replaces what would otherwise be a final exam. Please start as early as possible and save yourself lots of stress in May!
+
+**Details of the final project will be available before January 25th.**
