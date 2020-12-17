@@ -7,7 +7,7 @@ output:
 menu:
   resource:
     parent: Worksheets
-    weight: 1
+    weight: 6
 type: docs
 ---
 
