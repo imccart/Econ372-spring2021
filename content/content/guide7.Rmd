@@ -24,4 +24,4 @@ This week we'll continue our study of physician agency and treatment decisions, 
 - Solve for treatment levels with fixed prices
  
 ### Activities
-- In-class problem (agency and fixed prices)
+- In-class problem on physician agency with fixed prices. The worksheet is [here](/resource/wksheet5.html).

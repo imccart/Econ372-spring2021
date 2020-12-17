@@ -1,0 +1,23 @@
+---
+title: "Worksheet 6: Physician agency and capitated payments"
+linktitle: "Agency with capitation"
+output:
+  blogdown::html_page:
+    toc: false
+menu:
+  resource:
+    parent: Worksheets
+    weight: 1
+type: docs
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, ggplot2, dplyr, lubridate, readr, readxl, hrbrthemes,
+               scales, gganimate, gapminder, gifski, png, tufte, plotly, OECD,
+               ggrepel)
+
+```
+
+Stay tuned!

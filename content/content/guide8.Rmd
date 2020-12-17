@@ -21,3 +21,6 @@ This week we'll continue our study of physician agency and treatment decisions, 
 
 - Define a capitated payment
 - Solve for treatment levels with capitated payments
+
+### Activities
+- In-class problem on physician agency with capitated payments. The worksheet is [here](/resource/wksheet6.html).

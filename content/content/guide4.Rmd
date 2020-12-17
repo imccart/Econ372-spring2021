@@ -25,5 +25,5 @@ This week we'll broaden our study of insurance purchasing to the market level an
  
 
 ### Activities
-- In-class problem (adverse selection)
+- In-class problem on adverse selection. The worksheet is [here](/resource/wksheet3.html).
 - Case study of New Jersey

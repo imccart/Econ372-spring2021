@@ -23,4 +23,4 @@ This week we'll talk about risk premiums and examine demand for health insurance
 - Discuss viability of high-risk pools
  
 ### Activities
-- In-class problem (demand for health insurance)
+- In-class problem on the demand for health insurance. The worksheet is [here](/resource/wksheet2.html).

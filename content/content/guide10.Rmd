@@ -25,5 +25,5 @@ This week we begin our coverage of hospital pricing, starting with a setup in wh
 
 ### Activities
 
-- Solve for the profit maximizing price and quantity for a monopolistically competitive firm, [practice problem on unilateral pricing](worksheets.html)
-- Solve the practice problem on the [two-price model](worksheets.html)
+- Solve for the profit maximizing price and quantity for a monopolistically competitive firm. Worksheet available [here](/resource/wksheet7.html).
+- Solve the practice problem on the two-price model. Worksheet available [here](/resource/wksheet8.html).

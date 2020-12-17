@@ -25,4 +25,4 @@ This week we'll talk more specifically about how hospital prices are determined 
 
 ### Activities
 
-- Solve for a [Nash bargaining problem](worksheets.html)
+- Solve for a Nash bargaining problem. The class worksheet is [here](/resource/wksheet9.html).

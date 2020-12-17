@@ -24,4 +24,4 @@ This week we'll turn to physician treatment decisions. Just as asymmetric inform
  
 
 ### Activities
-- In-class problem (physician agency)
+- In-class problem on physician agency. The worksheet is [here](/resource/wksheet4.html).
