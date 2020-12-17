@@ -21,25 +21,7 @@ pacman::p_load(tidyverse, ggplot2, dplyr, lubridate, readr, readxl, hrbrthemes,
 ```
 
 
-# Demand for health insurance {.tabset}
 Assume that utility takes the log form, $u(x)=ln(x)$. If someone is healthy, they maintain their current wealth of <span>&#36;</span>100, and if they become ill, they must incur a cost of <span>&#36;</span>50. Answer the following questions based on this setup.
-
-## Problems
-
-### Question 1:
-Calculate the risk premium and willingness to pay based on a probability of illness of 0.1.
-
-### Question 2:
-Repeat part (1) using a probability of illness of 0.2.
-
-### Question 3:
-Repeat part (1) using a probability of illness of 0.5.
-
-### Question 4:
-Explain how these values differ and why. What might this say about the profitability of insurance in a market with many sick people?
-
-## Solutions
-The work we did in-class on the "white board" can be found [here](notes/health_insurance_solution.pdf). Clearer answers to each question are detailed below.
 
 ### Question 1:
 Calculate the risk premium and willingness to pay based on a probability of illness of 0.1.<br>

@@ -23,5 +23,5 @@ Today is all about risk and uncertainty. We will eventually use these concepts t
  
 ### Activities
 - Discussion of the health insurance *death spiral*
-- In-class problem (expected values)
+- In-class problem on expected values. The worksheet is [here](/resource/wksheet1.html).
  

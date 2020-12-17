@@ -20,24 +20,11 @@ pacman::p_load(tidyverse, ggplot2, dplyr, lubridate, readr, readxl, hrbrthemes,
 
 ```
 
-# Expected values {.tabset}
 
-## Problems
-
-### Question 1:
-An individual starts with a wealth of <span>&#36;</span>100,000. With probability 0.3, they will get sick and incur a cost of <span>&#36;</span>40,000. What is this person's expected cost of illness?
-
-### Question 2:
-Assume this individual has a utility function of the form, $u(w) = w^{0.20}$. What is this person's expected utility?
-
-### Question 3:
-Calculate this person's utility if they were to incur the cost of illness with certainty. Is this utility higher or lower than what you found in part (2)?
-
-
-## Solutions
+An individual starts with a wealth of <span>&#36;</span>100,000. With probability 0.3, they will get sick and incur a cost of <span>&#36;</span>40,000. 
 
 ### Question 1:
-An individual starts with a wealth of <span>&#36;</span>100,000. With probability 0.3, they will get sick and incur a cost of <span>&#36;</span>40,000. What is this person's expected cost of illness?<br>
+What is this person's expected cost of illness?<br>
 
 The expected cost is the probability of being ill (0.3) times the cost of being ill (40,000),<br><br>
 $E[cost]=0.3 \times 40,000 =$ `r format(0.3*40000,digits=5,big.mark=",")`.
