@@ -70,3 +70,5 @@ $$E\left[u(W)\right] = p u(W_{s}) + (1-p) u(W_{h}).$$
     + Interpret enrollment patterns and FFS costs in the context of adverse selection. Can adverse selection explain these trends? Why or why not?
     
     + Read the paper [Steps to reduce favorable risk selection in medicare advantage largely succeeded, boding well for health insurance exchanges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3535470/) and list three strategies that were used to minimize the effects of selection in the Medicare Advantage market.
+    
+    + Pick one of these strategies and explain how you think it might work in the context of the Health Insurance Exchanges. Support your discussion with at least one source from either a peer-reviewed journal or a reputable news/policy agency.
