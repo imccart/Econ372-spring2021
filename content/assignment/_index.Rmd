@@ -20,7 +20,7 @@ Please submit all of your homework answers as a PDF through **Canvas**. You can 
 Each homework assignment is worth 60 points toward your final grade. Each homework assignment will have 20 individual parts (think 4 or 5 questions each with 4 or 5 individual components), so you should expect each part of each question to be worth 3 points. Each part will be graded as follows:
 
 - **3 points:** Correct answer
-- **2 point2:** Good try and close, but with minor mistakes
+- **2 points:** Good try and close, but with minor mistakes
 - **1 point:** Incomplete work but an attempt nonetheless
 - **0 points:** No work toward the answer (e.g., completely blank or some initial equation written without any attempt to solve)
 
