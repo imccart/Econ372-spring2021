@@ -6,6 +6,8 @@ menu:
     parent: Weekly Guides
     weight: 5
 type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
 output:
   blogdown::html_page:
     toc: false
@@ -24,3 +26,4 @@ This week concludes our study of health insurance. We'll finish this module with
 
 ### Activities
 - Review Medicare Advantage and FFS data for Homework 1
+- Discuss @mcwilliams2012
