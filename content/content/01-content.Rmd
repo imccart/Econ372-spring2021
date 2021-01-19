@@ -23,7 +23,7 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
     - Sections 5.1-5.2 and 17.1 of [@pindyck2018]
     - Chapter 4 of [@sloan2012]
     - [@einav2011]
-    - [@mcwilliams2012]. We'll discuss this paper at the end of the module.
+    - [@mcwilliams2012]. **We'll discuss this paper at the end of the module.**
 - <i class="fas fa-external-link-square-alt"></i> Supplemental information we'll use throughout this module.
     - CNN Business, February 2017, ["Humana pulls out of Obamacare for 2018"](https://money.cnn.com/2017/02/14/news/economy/humana-obamacare-insurer/)
     - Kaiser Family Foundation, February 2017, ["High-Risk Pools for Uninsurable Individuals"](https://www.kff.org/health-reform/issue-brief/high-risk-pools-for-uninsurable-individuals/)

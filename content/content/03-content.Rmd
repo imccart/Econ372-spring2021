@@ -27,7 +27,7 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
     - [@reinhardt2006]
     - [@gaynor2015jel]
     - [@gaynor2017brookings]
-    - [@cooper2019]. We'll discuss this paper at the end of the module.
+    - [@cooper2019]. **We'll discuss this paper at the end of the module.**
 - <i class="fas fa-external-link-square-alt"></i> Supplemental information we'll use throughout this module.
     - ["History of Cost Shifting"](https://theincidentaleconomist.com/wordpress/hospital-cost-shifting-brief-history-and-possible-future/)
     - Reinhardt, Uwe. 2006. ["The Pricing of US Hospital Services: Chaos Behind a Veil of Secrecy."](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.25.1.57) *Health Affairs*, 25(1):57-69.

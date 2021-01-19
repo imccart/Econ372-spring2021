@@ -24,7 +24,7 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
     - Sections 5.3 and 17.2 of [@sloan2012]
     - [@mcguire2000]
     - [@gruber1996]
-    - [@clemens2014]. We'll discuss this paper at the end of the module.
+    - [@clemens2014]. **We'll discuss this paper at the end of the module.**
 - <i class="fas fa-external-link-square-alt"></i> Supplemental information we'll use throughout this module.
     - [The Dartmouth Atlas](https://www.dartmouthatlas.org/interactive-apps/)
     - The Atlantic, December 2013, ["You're Getting Too Much Healthcare](https://www.theatlantic.com/health/archive/2013/12/youre-getting-too-much-healthcare/281896/)
