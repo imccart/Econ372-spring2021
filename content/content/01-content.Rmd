@@ -19,9 +19,12 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
 
 ## Readings and other links
 
-- <i class="fas fa-book"></i> Sections 5.1-5.2 and 17.1 of [@pindyck2018], Chapter 4 of [@sloan2012], and [@einav2011]
-- <i class="fas fa-book"></i> The paper we'll discuss at the end of this module is, [@mcwilliams2012]
-- <i class="fas fa-external-link-square-alt"></i> 
+- <i class="fas fa-book"></i> Required readings for this module:
+    - Sections 5.1-5.2 and 17.1 of [@pindyck2018]
+    - Chapter 4 of [@sloan2012]
+    - [@einav2011]
+    - [@mcwilliams2012]. We'll discuss this paper at the end of the module.
+- <i class="fas fa-external-link-square-alt"></i> Supplemental information we'll use throughout this module.
     - CNN Business, February 2017, ["Humana pulls out of Obamacare for 2018"](https://money.cnn.com/2017/02/14/news/economy/humana-obamacare-insurer/)
     - Kaiser Family Foundation, February 2017, ["High-Risk Pools for Uninsurable Individuals"](https://www.kff.org/health-reform/issue-brief/high-risk-pools-for-uninsurable-individuals/)
     - ESPN, January 2019, ["A New Threat: An Evaporating Insurance Market"](https://www.espn.com/espn/story/_/id/25776964/insurance-market-football-evaporating-causing-major-threat-nfl-pop-warner-colleges-espn)
@@ -42,7 +45,7 @@ Use the buttons below to open the slides either as an interactive website or as 
 
 ### 01: Insurance and risk
 
-How to we quantify risk and how does the presence of risk facilitate an insurance market?
+How do we quantify risk and how does the presence of risk facilitate an insurance market?
 
 <center>
 

@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
-In this section we'll talk about recent policy events including pay-for-performance and capitated payment models. 
+This week concludes our discussion of physician agency. We'll talk about recent policy events including pay-for-performance and capitated payment models. We'll also discuss an academic paper in this area to help us practice reading and discussing this type of material.
 
 ### Objectives for this week
 
@@ -24,3 +24,6 @@ In this section we'll talk about recent policy events including pay-for-performa
 - Define a capitated payment and describe at least one type of capitated payment currently in the U.S.
 - Discuss the merits and drawbacks of a capitated payment model
 
+### Activities
+- Review the Medicare Provider Utilization and Payment Data for Homework 2
+- Discuss @clemens2014

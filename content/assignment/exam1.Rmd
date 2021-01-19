@@ -18,7 +18,7 @@ We only have one exam this semester. It will cover all content from Modules 1 an
 ## Format
 - I will upload the exam to *Canvas* by 8:00am on Tuesday, March 30th. This gives you the full day to complete the exam.
 
-- The exam will consist of at least 6 general problem, each with between 3 and 5 individual questions. I anticipate 20 to 25 questions in total. Just as we've done in our homework assignments, some of these will require you to solve an optimization problem, some will require a brief explanation, and some parts will require a graph. See the [content](#content-1) section below for more information.
+- The exam will consist of at least 6 general problems, each with between 3 and 5 individual questions. I anticipate 20 to 25 questions in total. Just as we've done in our homework assignments, some of these will require you to solve an optimization problem, some will require a brief explanation, and some parts will require a graph. See the [content](#content-1) section below for more information.
 
 - As with the homework assignments, you must turn-in your exam as a PDF in *Canvas*. You need not re-type the questions themselves, but your answers must be clearly demarcated. I suggest using headings for each main problem and subheadings for each question.
 

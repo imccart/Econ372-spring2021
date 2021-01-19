@@ -22,8 +22,13 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
 
 ## Readings
 
-- <i class="fas fa-book"></i> Sections 5.4 of [@sloan2012], [@reinhardt2006], [@gaynor2015jel], and [@gaynor2017brookings]
-- <i class="fas fa-external-link-square-alt"></i> 
+- <i class="fas fa-book"></i> Required readings for this module:
+    - Section 5.4 of [@sloan2012]
+    - [@reinhardt2006]
+    - [@gaynor2015jel]
+    - [@gaynor2017brookings]
+    - [@cooper2019]. We'll discuss this paper at the end of the module.
+- <i class="fas fa-external-link-square-alt"></i> Supplemental information we'll use throughout this module.
     - ["History of Cost Shifting"](https://theincidentaleconomist.com/wordpress/hospital-cost-shifting-brief-history-and-possible-future/)
     - Reinhardt, Uwe. 2006. ["The Pricing of US Hospital Services: Chaos Behind a Veil of Secrecy."](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.25.1.57) *Health Affairs*, 25(1):57-69.
     - ["Value of tax breaks for non-profit hospitals doubled in a decade,"](https://www.washingtonpost.com/national/health-science/value-of-tax-breaks-for-nonprofit-hospitals-doubled-in-a-decade/2015/06/17/4162c640-1450-11e5-9ddc-e3353542100c_story.html) *Washington Post*, 2015
