@@ -12,7 +12,7 @@ output:
     toc: true
 ---
 
-Below are basic descriptions of each category of assignments for this semester, including information on how to turn in each assignment as well as grading criteria. 
+Below are basic descriptions of each category of assignments for this semester. More details are available on the individual pages for each assignment.
 
 ## Homework
 Please submit all of your homework answers as a PDF through **Canvas**. You can use Word and "print" to PDF, but I also encourage you to use Overleaf, which will help you to easily create PDFs and is much better for writing math-oriented documents. Overleaf is also fully cloud-based, and as an Emory student, you have full access to Overleaf Professional. 
