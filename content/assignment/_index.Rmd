@@ -26,14 +26,12 @@ Each homework assignment is worth 60 points toward your final grade. Each homewo
 
 
 ## Exam
-We only have one exam this semester, and it will cover content from Modules 1 and 2. The exam is worth 60 points toward your final grade.
-
-Details of the exam will be made available before January 25th.
+We only have one exam this semester, and it will cover content from Modules 1 and 2. The exam is worth 60 points toward your final grade. Please see the [Mid-term Exam](/assignment/exam1/) page for more details. 
 
 ## Project
 We do not have a final exam in this class. Instead, we have a final project that asks you to use real data and interpret some summary statistics in the context of the material we've covered in class. The final project is due on the date of our final exam, which is May 12th this year. The project is worth 140 points toward your final grade.
 
-Details of the project will be made available before January 25th.
+Please see the [Final Project](/assignment/project/) for more details.
 
 ## Participation
 "Participation" in each week will be graded based on how many of the weekly participation elements are submitted, specifically: 
