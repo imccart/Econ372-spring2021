@@ -12,4 +12,4 @@ The class content is organized around four modules (really, three plus an introd
 
 <p style="text-align:center;"><span class="btn btn-primary btn-lg"><i class="fas fa-external-link-alt"></i> View all slides in new window</span> <span class="btn btn-primary btn-lg"><i class="far fa-file-pdf"></i> Download PDF of all slides</span></p>
 
-We'll spend about four weeks on each module. For every week, I provide a guide that lists key learning objectives and any additional materials (other than class slides) for the week. For example, many weeks include a class worksheet that we will complete together. These weekly guides are available in the #guides section of this page.
+We'll spend about four weeks on each module. For every week, I provide a guide that lists key learning objectives and any additional materials (other than class slides) for the week. For example, many weeks include a class worksheet that we will complete together. These weekly guides are available in the [guides](/content/guide1/) section of this page.
