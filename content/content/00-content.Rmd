@@ -17,6 +17,10 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
+For each Module, I have an "airport" idea. This is something I took from [Invisible Learning](https://www.amazon.com/Invisible-Learning-legendary-Harvard-statistics-ebook/dp/B08P7TJZSQ). An "airport" idea is something that is "so memorable, so deeply entrenched in your brain and how you view the world, that in five years' time -- when I see you at an airport -- you will be able to explain those ideas to me even if you've forgotten everything else." These are bigger than learing outcomes or learning objectives.
+
+The airport idea for Module 0 is this: "In the U.S., we spend a lot more money on health care than other countries. Whether the quality is sufficiently high given these high expenditures depends on who you are, what conditions you have, and your insurance (among other things)."
+
 ## Readings and other links
 
 - Review the [syllabus](/syllabus/), [schedule](/schedule/), [content](/content/), and [assignments](/assignment/) pages for this class...just to get a feel for the site and how to navigate all of the information.
