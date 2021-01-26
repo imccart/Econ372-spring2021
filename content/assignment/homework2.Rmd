@@ -52,7 +52,7 @@ This is our second homework assignment of the semester. It covers questions rela
     
 ## Empirical Questions
 
-4. In January 2014, CMS reduced it's payments to physicians for epidural steroidal injections (CPT codes 62310, 62311, 62318, and 62319). The reduction was part of an effort to adjust "potentially misvalued services," in which CMS lowered the payment rates back to 2013 levels. CMS subsequently increased the payment levels back to 2013 rates in 2015. Talk about whiplash! For this question, we're going to use the Medicare Provider Utilization and Payment Data from 2013 through 2015 to see how these payment changes may have affected the frequency of epidural steroidal injections. These data are available on our *Canvas* page...just look for the **Data** section on the main landing page. Take a look at the data in your favorite software, and answer the following questions:
+4. In January 2014, CMS reduced it's payments to physicians for epidural steroidal injections (CPT codes 62310, 62311, 62318, and 62319). The reduction was part of an effort to adjust "potentially misvalued services," in which CMS lowered the payment rates back to 2013 levels. CMS subsequently increased the payment levels in 2015. Talk about whiplash! For this question, we're going to use the Medicare Provider Utilization and Payment Data from 2013 through 2015 to see how these payment changes may have affected the frequency of epidural steroidal injections. These data are available on our **Canvas** page...just look for the **Data** section on the main landing page. Take a look at the data in your favorite software, and answer the following questions:
 
     + How many unique physicians administered at least one epidural steroidal injection in 2013?
     
