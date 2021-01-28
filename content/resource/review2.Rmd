@@ -43,5 +43,5 @@ Find the derivative of the following functions
 ### Answers
 
 1. Note that total revenue is $(80-Q)Q$, so marginal revenue is $80-2Q$.
-2. To find the optimal $Q$, we need to differentiate, set equal to 0, then solve for $Q$. In this case, $\pi'(Q) = 80 - 2Q - 10$, which equals 0 for $Q=35$. Price at this quantity is $P=80-Q=5$.
+2. To find the optimal $Q$, we need to differentiate, set equal to 0, then solve for $Q$. In this case, $\pi'(Q) = 80 - 2Q - 10$, which equals 0 for $Q=35$. Price at this quantity is $P=80-Q=45$.
 3. The marginal product of labor or capital is just the partial derivative of each of those terms. So, $$MP_{L} = \frac{\partial Q}{\partial L} = \alpha A L^{\alpha-1} K^{1-\alpha} = \alpha A \left(\frac{K}{L}\right)^{1-\alpha}$$ and $$MP_{K} = \frac{\partial Q}{\partial K} = (1-\alpha) A L^{\alpha} K^{-\alpha} = (1-\alpha) A \left( \frac{L}{K} \right)^{\alpha}.$$
