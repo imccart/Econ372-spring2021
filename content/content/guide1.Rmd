@@ -27,7 +27,7 @@ Welcome to Economics of Health Care Markets! We're going to have a great time th
 - Discussion of U.S. health care expenditures and quality
 - Overview of class and introductions
 - Complete the [Math Review](/resource/review1) and [Practice Problems](/resource/review2)
-- Go to [latlong.net](latlong.net) to find your current latitude and longitude, and then go to our [class latitude and longitude spreadsheet](https://docs.google.com/spreadsheets/d/1qfdFm21lc7ouVliD66Je3jse9XkmqbpkM0C68oEGoXo/edit?usp=sharing) to enter your latitude and longitude.
+- Go to [latlong.net](https://www.latlong.net/) to find your current latitude and longitude, and then go to our [class latitude and longitude spreadsheet](https://docs.google.com/spreadsheets/d/1qfdFm21lc7ouVliD66Je3jse9XkmqbpkM0C68oEGoXo/edit?usp=sharing) to enter your latitude and longitude.
 
   
   
