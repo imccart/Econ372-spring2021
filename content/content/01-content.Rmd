@@ -17,6 +17,10 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
+The narrow goal of this module is to understand why people buy health insurance (or any insurance really) and how peoples' private information may influence health insurance prices (e.g., adverse selection). We'll finish the module with a discussion of current policy issues related to health insurance in the U.S.
+
+The big picture economics concept of this module, or the "airport" idea that I hope you can remember several years later when we run into each other at the airport, is "firms also face uncertainty." What does that mean? In the context of insurance, it means that insurers really don't know who will choose their plans (but they definitely try).
+
 ## Readings and other links
 
 - <i class="fas fa-book"></i> Required readings for this module:
@@ -34,8 +38,6 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
     
 
 ## Slides
-
-The goal of this module is to understand why people buy health insurance (or any insurance really) and how peoples' private information may influence health insurance prices (e.g., adverse selection). We'll finish the module with a discussion of current policy issues related to health insurance in the U.S.
 
 Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
 
