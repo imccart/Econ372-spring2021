@@ -17,6 +17,11 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
+The narrow goal of this module is to understand the role of physicians in making treatment decisions, and how the consequences of this may differ depending on the type of payment model employed. We'll finish the module with a discussion of current policy issues related to healthcare payments in the U.S.
+
+The big picture economics concept of this module, or the "airport" idea that I hope you can remember several years later when we run into each other at the airport, is "behaviors can reflect both altruism and self interest." What does that mean? In the context of physician treatment decisions, it means that physicians and hospitals can pursue treatments that offer a benefit to patients but that also offer a financial benefit to them. These aren't mutually exclusive goals.
+
+
 ## Readings and other links
 
 - <i class="fas fa-book"></i> Required readings for this module:
@@ -36,8 +41,6 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
 
 
 ## Slides
-
-The goal of this module is to understand the role of physicians in making treatment decisions, and how the consequences of this may differ depending on the type of payment model employed. We'll finish the module with a discussion of current policy issues related to healthcare payments in the U.S.
 
 Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
 
