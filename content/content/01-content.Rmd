@@ -23,11 +23,13 @@ The big picture economics concept of this module, or the "airport" idea that I h
 
 ## Readings and other links
 
+Links to papers are listed alongside the full reference. PDFs of each paper are also available on **Canvas**.
+
 - <i class="fas fa-book"></i> Required readings for this module:
     - Sections 5.1-5.2 and 17.1 of [@pindyck2018]
     - Chapter 4 of [@sloan2012]
-    - [@einav2011]
-    - [@mcwilliams2012]. **We'll discuss this paper at the end of the module.**
+    - [@einav2011]. Link to paper [here](https://www.aeaweb.org/articles?id=10.1257/jep.25.1.115).
+    - [@mcwilliams2012]. Link to paper [here](https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2011.1344). **We'll discuss this paper at the end of the module.**
 - <i class="fas fa-external-link-square-alt"></i> Supplemental information we'll use throughout this module.
     - CNN Business, February 2017, ["Humana pulls out of Obamacare for 2018"](https://money.cnn.com/2017/02/14/news/economy/humana-obamacare-insurer/)
     - Kaiser Family Foundation, February 2017, ["High-Risk Pools for Uninsurable Individuals"](https://www.kff.org/health-reform/issue-brief/high-risk-pools-for-uninsurable-individuals/)
