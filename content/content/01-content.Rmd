@@ -17,13 +17,19 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
+The narrow goal of this module is to understand why people buy health insurance (or any insurance really) and how peoples' private information may influence health insurance prices (e.g., adverse selection). We'll finish the module with a discussion of current policy issues related to health insurance in the U.S.
+
+The big picture economics concept of this module, or the "airport" idea that I hope you can remember several years later when we run into each other at the airport, is "firms also face uncertainty." What does that mean? In the context of insurance, it means that insurers really don't know who will choose their plans (but they definitely try).
+
 ## Readings and other links
+
+Links to papers are listed alongside the full reference. PDFs of each paper are also available on **Canvas**.
 
 - <i class="fas fa-book"></i> Required readings for this module:
     - Sections 5.1-5.2 and 17.1 of [@pindyck2018]
     - Chapter 4 of [@sloan2012]
-    - [@einav2011]
-    - [@mcwilliams2012]. **We'll discuss this paper at the end of the module.**
+    - [@einav2011]. Link to paper [here](https://www.aeaweb.org/articles?id=10.1257/jep.25.1.115).
+    - [@mcwilliams2012]. Link to paper [here](https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2011.1344). **We'll discuss this paper at the end of the module.**
 - <i class="fas fa-external-link-square-alt"></i> Supplemental information we'll use throughout this module.
     - CNN Business, February 2017, ["Humana pulls out of Obamacare for 2018"](https://money.cnn.com/2017/02/14/news/economy/humana-obamacare-insurer/)
     - Kaiser Family Foundation, February 2017, ["High-Risk Pools for Uninsurable Individuals"](https://www.kff.org/health-reform/issue-brief/high-risk-pools-for-uninsurable-individuals/)
@@ -34,8 +40,6 @@ knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FAL
     
 
 ## Slides
-
-The goal of this module is to understand why people buy health insurance (or any insurance really) and how peoples' private information may influence health insurance prices (e.g., adverse selection). We'll finish the module with a discussion of current policy issues related to health insurance in the U.S.
 
 Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
 
