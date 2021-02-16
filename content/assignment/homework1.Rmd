@@ -57,7 +57,7 @@ $$E\left[u(W)\right] = p u(W_{s}) + (1-p) u(W_{h}).$$
     
     + Please graph the premium for all three plans on a single graph. What do you see? 
     
-    + On a seperate graph, show total enrollments over time. 
+    + On a separate graph, show total enrollments over time. 
     
     + Are these data suggestive of a "death spiral?" Why or why not?
     
