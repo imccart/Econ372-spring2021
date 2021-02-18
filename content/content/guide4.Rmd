@@ -27,3 +27,4 @@ This week we'll broaden our study of insurance purchasing to the market level an
 ### Activities
 - In-class problem on adverse selection. The worksheet is [here](/resource/wksheet3.html).
 - [Slides on Health Insurance Trivia](https://docs.google.com/presentation/d/1tXKmoT0fjLrIPCgMYWg_SQZOWiQKuBmANvTnwBtjO5M/edit?usp=sharing)
+- [Slides on ACA Exchange Pricing](https://docs.google.com/presentation/d/10oma6GyyympKxUx3pEQRUtCMLfJyHbrN6cDjQTw_woc/edit?usp=sharing)
