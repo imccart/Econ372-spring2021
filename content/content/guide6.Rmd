@@ -24,4 +24,6 @@ This week we'll turn to physician treatment decisions. Just as asymmetric inform
  
 
 ### Activities
+- [Supplemental slides on physicians and financial incentives](https://docs.google.com/presentation/d/1mDrHqX3csv8nBaNSmmq5IHjq75E2k50mshLERnrEsfE/edit?usp=sharing)
+- [Supplemental slides on physician agency and lower limb MRI](https://docs.google.com/presentation/d/1DXCjBHg4pDRn-cxudsEpYGLWYuBesZc6RguBXebrens/edit?usp=sharing)
 - In-class problem on physician agency. The worksheet is [here](/resource/wksheet4.html).
