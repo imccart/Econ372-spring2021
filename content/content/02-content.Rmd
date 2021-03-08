@@ -87,11 +87,11 @@ What is a capitated payment model, and how is it related to physician agency?
 <center>
 
 ```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency2.html")
+knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency3.html")
 ```
 
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency2.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency3.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency3.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
 
 </center>
 
