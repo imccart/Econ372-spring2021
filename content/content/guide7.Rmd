@@ -24,4 +24,6 @@ This week we'll continue our study of physician agency and treatment decisions, 
 - Solve for treatment levels with fixed prices
  
 ### Activities
-- In-class problem on physician agency with fixed prices. The worksheet is [here](/resource/wksheet5.html).
+- In-class problem on physician agency with fixed prices. The worksheet is [here](/resource/wksheet5.html)
+- [Supplemental slides on current health news](https://docs.google.com/presentation/d/14vRZsB9n1nmLqFnBHqZZCe0SBtVcPURbF27eDvyG_S0/edit?usp=sharing)
+- **The Incidental Economist** on [Upcoding](https://theincidentaleconomist.com/wordpress/upcoding-pt-one-what-and-how/)
