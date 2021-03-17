@@ -72,3 +72,7 @@
 [[resource]]
   name = "Worksheets"
   weight = 3
+  
+[[resource]]
+  name = "Exam Review"
+  weight = 4
