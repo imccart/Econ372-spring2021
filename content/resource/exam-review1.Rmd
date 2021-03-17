@@ -1,13 +1,13 @@
 ---
 title: "Mid-term Exam Review Sheet"
-linktitle: "Exam Review"
+linktitle: "Mid-term Review"
 output:
   blogdown::html_page:
     toc: false
 menu:
   resource:
     parent: Exam Review
-    weight: -1
+    weight: 1
 type: docs
 ---
 
