@@ -6,6 +6,8 @@ menu:
     parent: Weekly Guides
     weight: 9
 type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
 output:
   blogdown::html_page:
     toc: false
