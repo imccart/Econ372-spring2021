@@ -20,10 +20,10 @@ This week concludes our discussion of physician agency. We'll talk about recent 
 ### Objectives for this week
 
 - Explain at least one recent hospital pay for performance program
-- Identify and explain two pros and two cons from healthcare pay for performance models
+- Identify and explain two pros and two cons from health care pay for performance models
 - Define a capitated payment and describe at least one type of capitated payment currently in the U.S.
 - Discuss the merits and drawbacks of a capitated payment model
 
 ### Activities
-- Review the Medicare Provider Utilization and Payment Data for Homework 2
-- Discuss @clemens2014
+- Review homework assignments and answer any exam questions
+- Discuss [@clemens2014]
