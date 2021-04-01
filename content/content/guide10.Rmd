@@ -25,5 +25,6 @@ This week we begin our coverage of hospital pricing, starting with a setup in wh
 
 ### Activities
 
+- Watch [video](https://truecostofhealthcare.org/hospitalization/) on hospital billing and what we mean by hospital "price".
 - Solve for the profit maximizing price and quantity for a monopolistically competitive firm. Worksheet available [here](/resource/wksheet7.html).
 - Solve the practice problem on the two-price model. Worksheet available [here](/resource/wksheet8.html).
